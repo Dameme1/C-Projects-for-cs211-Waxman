@@ -12,6 +12,6 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **8 Numbers in a Cross (no gotos)(two while-loops)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/54f161bfd4157955fb0cef13bd669dd18f3ba464/8numberscross.cpp)
 
-**Stable Marriage (8 Queens template)** is [here](www.google.com)
+**Stable Marriage (8 Queens template)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/1c808584a617db45649c0f7be9d7dd9d4c3fad1f/stablemarriage.cpp)
 
 
