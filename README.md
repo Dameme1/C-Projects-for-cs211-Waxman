@@ -6,5 +6,7 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 ## Here are links to each project
 
-2D 8 Queens (with gotos) is [here](https://github.com/Dameme1/C-Projects-for-cs211-Waxman/blob/main/2d8queens.cpp)
+**2D 8 Queens (with gotos)** is [here](https://github.com/Dameme1/C-Projects-for-cs211-Waxman/blob/main/2d8queens.cpp)
+
+**1D 8 Queens (no gotos)** is [here](www.google.com)
 
