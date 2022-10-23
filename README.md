@@ -1,4 +1,4 @@
-# C++ Projects - cs211 Jerry Waxman
+# C++ Projects - CSCI211 Jerry Waxman
 
 In this repository, I will be showcasing my take on the projects assigned in CSCI 211 - Object Oriented Programming C++
 
