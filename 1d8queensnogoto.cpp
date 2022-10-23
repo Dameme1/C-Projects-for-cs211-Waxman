@@ -1,5 +1,5 @@
 // Tameem Ahmed 
-// 2 Dimensional Array Program with Backtracking, GOTO
+// 1 Dimensional Array Program with backtracking, no GOTO, two while loops
 
 
 #include <cmath>
