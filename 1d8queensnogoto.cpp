@@ -41,20 +41,21 @@ int main()
     int q[8], c = 0;   //initializations
     q[0] = 0; 
 
-        while (c >= 0) { //position check
+        while (c >= 0) { //outer while loop, position check
             c++; // increment column
             if (c == 8) { //position check
                 print(q);
                 c--; 
             } else
                 q[c] = -1; 
-            while (c >= 0) { //position check
+            while (c >= 0) { //inner while loop, position check
                 q[c]++; // increment row
                 if (q[c] == 8)
                     c--; 
                 else if (ok(q, c)) 
                     break; 
-            }
-        }
+            } // inner loop
+        }//outer loop
     return 0;
-}
+} // main function
+
