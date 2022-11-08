@@ -18,4 +18,4 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Dumb 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/000151c5c85a4c02c71c55688738930ba0e274bc/dumb8queens.cpp)
 
-**Fancy 8 Queens** is [here](www.google.com)
+**Fancy 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/618672fbbe70bf3753eaf64ce662c3cd71838b9f/fancyQueens.cpp)
