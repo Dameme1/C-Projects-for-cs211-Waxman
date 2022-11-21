@@ -10,7 +10,7 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **1D 8 Queens (with gotos)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/5aa47cbc6c70cef326ff5c468b43402312301261/1d8queens.cpp)
 
-**1D 8 Queens (no gotos)(two while-loops** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/45cecc1818cbb9ae544f69ea8ed85adf0db9d281/1d8queensnogoto.cpp)
+**1D 8 Queens (no gotos)(two while-loops)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/45cecc1818cbb9ae544f69ea8ed85adf0db9d281/1d8queensnogoto.cpp)
 
 **8 Numbers in a Cross (no gotos)(two while-loops)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/54f161bfd4157955fb0cef13bd669dd18f3ba464/8numberscross.cpp)
 
