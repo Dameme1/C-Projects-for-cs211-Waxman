@@ -16,6 +16,6 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Stable Marriage (8 Queens template)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/1c808584a617db45649c0f7be9d7dd9d4c3fad1f/stablemarriage.cpp)
 
-**Dumb 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/000151c5c85a4c02c71c55688738930ba0e274bc/dumb8queens.cpp)
+**Dumb 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/6e4a2cadafb4776464143cbfa67002a089366156/dumb8queens.cpp)
 
 **Fancy 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/5aa47cbc6c70cef326ff5c468b43402312301261/fancyQueens.cpp)
