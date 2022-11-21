@@ -1,7 +1,5 @@
 // Tameem Ahmed    
 // Dumb 8 Queens Problem
-
-
 #include <iostream> 
 using namespace std;
 
