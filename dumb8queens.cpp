@@ -29,7 +29,7 @@ void print(int q[]){
     cout << endl;
     for (int i = 0; i < 8; i++) { // prints the board
         for (int j = 0; j < 8; j++) {
-            if (q[i] == j) // if the value of q[i] is equal to the row value, then print x to indicate a queen
+            if (q[j] == i) // if the value of q[i] is equal to the row value, then print x to indicate a queen
                 cout << " x ";
             else // all other positions are o's 
                 cout << " o ";
