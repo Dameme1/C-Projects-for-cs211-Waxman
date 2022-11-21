@@ -25,7 +25,7 @@ void print(int q[])
     cout << endl;
     for (int i = 0; i < 8; i++) {         // prints the board
         for (int j = 0; j < 8; j++) {
-            if (q[i] == j) 
+            if (q[j] == i) 
                 cout << " x ";
             else 
                 cout << " o ";
