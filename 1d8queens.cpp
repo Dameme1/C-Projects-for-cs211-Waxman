@@ -33,7 +33,7 @@ cout << "Solution #: " << ++sol_num <<endl;
 
     for(int i = 0; i < 8; i++){
         for(int j = 0; j < 8; j++){
-            if(q[i] == j) cout << " X ";
+            if(q[j] == i) cout << " X ";
             else cout << " O ";
         }
         cout << endl;
