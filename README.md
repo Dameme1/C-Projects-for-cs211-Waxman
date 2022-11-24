@@ -24,5 +24,5 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Integration** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/e2e5081ca14e729d39d4d533ece04fef611f015d/integration.cpp)
 
-**N - Queens** is [here](www.google.com)
+**N - Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/c3e0c470f20aa2ccba743775a81421dab821fce1/nQueens.cpp)
 
