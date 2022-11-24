@@ -20,7 +20,7 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Fancy 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/5aa47cbc6c70cef326ff5c468b43402312301261/fancyQueens.cpp)
 
-**Towers of Hanoi** is [here](www.google.com)
+**Towers of Hanoi** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/61b5599d891ef9ff01fbb26e391115f71defbe70/towersOfHanoi.cpp)
 
 **Integration** is [here](www.google.com)
 
