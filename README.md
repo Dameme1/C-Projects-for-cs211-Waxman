@@ -19,3 +19,10 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 **Dumb 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/6e4a2cadafb4776464143cbfa67002a089366156/dumb8queens.cpp)
 
 **Fancy 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/5aa47cbc6c70cef326ff5c468b43402312301261/fancyQueens.cpp)
+
+**Towers of Hanoi** is [here](www.google.com)
+
+**Integration** is [here](www.google.com)
+
+**N - Queens** is [here](www.google.com)
+
