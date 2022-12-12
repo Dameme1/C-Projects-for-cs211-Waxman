@@ -34,7 +34,7 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Shortest Path(No Memo)** is [here](www.google.com)
 
-*Shortest Path (Memo)** is [here](www.google.com)
+**Shortest Path (Memo)** is [here](www.google.com)
 
 **Robot Path** is [here](www.google.com)
 
