@@ -20,6 +20,8 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Fancy 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/5aa47cbc6c70cef326ff5c468b43402312301261/fancyQueens.cpp)
 
+**Recursive 8 Queens** is [here](www.google.com)
+
 **Towers of Hanoi** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/61b5599d891ef9ff01fbb26e391115f71defbe70/towersOfHanoi.cpp)
 
 **Recursive Towers of Hanoi** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/250f95c302f851e64655a29820dea46a06f64194/recursiveTowers.cpp)
@@ -27,4 +29,14 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 **Integration** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/e2e5081ca14e729d39d4d533ece04fef611f015d/integration.cpp)
 
 **N - Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/c3e0c470f20aa2ccba743775a81421dab821fce1/nQueens.cpp)
+
+**K - Bishops** is [here](www.google.com)
+
+**Shortest Path(No Memo)** is [here](www.google.com)
+
+*Shortest Path (Memo)** is [here](www.google.com)
+
+**Robot Path** is [here](www.google.com)
+
+
 
