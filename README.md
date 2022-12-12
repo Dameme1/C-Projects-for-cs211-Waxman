@@ -20,7 +20,7 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Fancy 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/5aa47cbc6c70cef326ff5c468b43402312301261/fancyQueens.cpp)
 
-**Recursive 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/f1632520809a4e40982bac28224933c0be91f3de/recursive8queens.cpp)
+**Recursive 8 Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/12033917b92011b206370c86556c8197467cf45c/recursive8queens.cpp)
 
 **Towers of Hanoi** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/61b5599d891ef9ff01fbb26e391115f71defbe70/towersOfHanoi.cpp)
 
