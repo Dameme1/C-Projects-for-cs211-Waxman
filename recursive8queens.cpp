@@ -1,3 +1,6 @@
+//Tameem Ahmed
+//Recursive 8 Queens
+
 #include <iostream> 
 #include <cmath>
 using namespace std;
