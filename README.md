@@ -32,7 +32,7 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **K - Bishops** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/a02b4617c72f337ee7df0b1b9e8baa1ced795c27/kBishops.cpp)
 
-**Shortest Path(No Memo)** is [here](www.google.com)
+**Shortest Path(No Memo)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/1f12517f1662bc673708d2ddef3c77376bdfc76d/shortestPath.cpp)
 
 **Shortest Path (Memo)** is [here](www.google.com)
 
