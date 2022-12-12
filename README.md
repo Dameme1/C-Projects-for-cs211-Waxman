@@ -30,7 +30,7 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **N - Queens** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/c3e0c470f20aa2ccba743775a81421dab821fce1/nQueens.cpp)
 
-**K - Bishops** is [here](www.google.com)
+**K - Bishops** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/a02b4617c72f337ee7df0b1b9e8baa1ced795c27/kBishops.cpp)
 
 **Shortest Path(No Memo)** is [here](www.google.com)
 
