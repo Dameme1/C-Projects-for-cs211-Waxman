@@ -1,3 +1,6 @@
+//Tameem Ahmed
+//K - Bishops
+
 #include <iostream> 
 using namespace std;
 
