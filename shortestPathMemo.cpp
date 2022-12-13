@@ -1,21 +1,16 @@
 //Tameem Ahmed
 //Shortest Path 
-
 #include <iostream>
 #include <string> 
 using namespace std;
 const int rows = 5;
 const int cols = 6;
+string path[rows][cols];
 
-/*
-The difference between this program and its 'non-memo' version is that this allows us to 'cout' the actual path instead of only its weight. 
-we do this with this addition of memoization and an array called 'path' that keeps track of how many ways there are to get to a single box. 
-*/
 
-string path[rows][cols]; 
 int cost(int i, int j)
 {
-   
+    // i is the row, j is the column
     static int weight[rows][cols] = {
         { 3, 4, 1, 2, 8, 6 },
         { 6, 1, 8, 2, 7, 4 },
@@ -33,27 +28,26 @@ int cost(int i, int j)
         return weight[i][0];
     }
 
-    int left = cost(i, j - 1); 
-    int up = cost((i + (rows - 1))% rows, j - 1); 
-    int down = cost((i + 1) % rows, j - 1); 
+    int left = cost(i, j - 1); // move left, row_index doesn't change
+    int up = cost((i + (rows - 1))% rows, j - 1); // move up, (row_index + (rows-1)) % rows
+    int down = cost((i + 1) % rows, j - 1); // move down, (row_index + 1) % rows
     
-    int min_cost = ((left < up)? ((left < down)? left : down ): ((up < down)? up : down)); //finds the smallest of the three costs. 
+    int min_cost = ((left < up)? ((left < down)? left : down ): ((up < down)? up : down));
 
-    if(min_cost == up){ //if the min_cost is from the upper-left box
-        path[i][j] = path[(i + (rows - 1)) % rows][j - 1] + to_string(i); //we take the path in the upper-left box, then add 'i' to it, which is the row of the
-                                                                                // current box (path[i][j]
+    if(min_cost == up){
+        path[i][j] = path[(i + (rows - 1)) % rows][j - 1] + to_string(i);
     }
-    else if(min_cost == left){ //if the min_cost is from the left box
+    else if(min_cost == left){
         path[i][j] = path[i][j - 1] + to_string(i);
     }
-    else{ // if the min_cost is from the lower-left box. 
+    else{
         path[i][j] = path[(i + 1) % rows][j - 1] + to_string(i);
     }
     
 
-    memo[i][j] = weight[i][j] + min_cost; // add the answer to memo
+    memo[i][j] = weight[i][j] + min_cost;
 
-    return memo[i][j]; // return memo. 
+    return memo[i][j];
 
 } // end of cost function
 
@@ -67,14 +61,14 @@ int main()
     }
     
     minCost = ex[0];
-    for(int i = 1; i < rows; i++){ //finds which row has the lowest weight
+    for(int i = 1; i < rows; i++){
         if(ex[i] < minCost){
             minCost = ex[i];
-            minRow = i;  //sets minRow equal to the 'i' (row) that has the lowest weight
+            minRow = i; 
         }
     }
 
-    cout << "The weight of the shortest path is of length " << minCost << endl; // we print out the lowest weight. 
-    cout << "The rows of the shortest path is: " << path[minRow][cols - 1] << endl; // we print out the path for the box with the lowest weight
+    cout << "The weight of the shortest path is of length " << minCost << endl;
+    cout << "The rows of the shortest path is: " << path[minRow][cols - 1] << endl;
     return 0;
 }
