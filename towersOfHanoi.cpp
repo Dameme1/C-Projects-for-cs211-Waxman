@@ -16,9 +16,10 @@ int main() {
    int close = (n % 2 == 1)? 1 : 2;                                 // The value changes depending on even or odd rings. This simulates going clockwise or counter clockwise. 
    int far = (n % 2 == 1)? 2 : 1; 
 
-   for(int i = n + 1; i >= 1; --i) // this initializes all the vectors 
+   for(int i = n + 1; i >= 1; --i) // this initializes the initial 'from' tower with all the rings.
       t[0].push_back(i);
-   t[1].push_back(n+1);
+   
+   t[1].push_back(n+1); 
    t[2].push_back(n+1);
    
    while (t[1].size() < n+1) {
