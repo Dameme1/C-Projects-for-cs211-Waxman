@@ -38,6 +38,6 @@ The goal here is to showcase and overview my dive into OOP C++ in various differ
 
 **Robot Path** is [here](robotPaths.cpp)
 
-**Rat Class ** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/a97a54c350bdee446316c47f8f1e1be33e9b438b/ratClass.cpp)
+**Rat Class** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/a97a54c350bdee446316c47f8f1e1be33e9b438b/ratClass.cpp)
 
 
