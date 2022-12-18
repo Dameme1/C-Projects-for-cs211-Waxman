@@ -1,3 +1,6 @@
+//Tameem ahmed
+//Rat Class
+
 #include <iostream> 
 using namespace std;
 
