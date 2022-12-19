@@ -23,7 +23,7 @@ int cost(int i, int j)
         return weight[i][0];
     }
     int left = cost(i, j - 1); // //this finds the cost of the box on the left
-    int up = cost((i + (rows - 1))% rows, j - 1); // this finds the cost of the box on the upper left
+    int up = cost(((rows + i) - 1)% rows, j - 1); // this finds the cost of the box on the upper left
     int down = cost((i + 1) % rows, j - 1); // move down, (row_index + 1) % rows //this finds the cost of the box on the lower left
     
     int min_cost = ((left < up)? ((left < down)? left : down ): ((up < down)? up : down)); 
