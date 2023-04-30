@@ -4,6 +4,10 @@ In this repository, I will be showcasing my take on the projects assigned in CSC
 
 The goal here is to showcase and overview my dive into OOP C++ in various different projects.
 
+*⚠️⚠️If you are a current student of Jerry Waxman, use this at your own risk⚠️⚠️*
+
+*The projects assigned in CSCI 212 and CSCI 211 are of high importance as they create the foundation you need to be successful in the tech field, if you choose to merely copy paste the code without putting in the effort and learning it, you will not excel very well in the field*
+
 ## Here are links to each project
 
 **2D 8 Queens (with gotos)** is [here](https://github.com/Dameme1/Projects-CSCI-211-Waxman/blob/10f6dd3bd03496a3355dee6490b185d36946c313/2d8queens.cpp)
